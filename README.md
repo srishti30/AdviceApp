@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Advice App
+An app that takes data from api in json format and renders random advice on the screen
+Made using react js and apis 
 
 ## Available Scripts
 
